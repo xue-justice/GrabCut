@@ -1,1 +1,0 @@
-python3 main.py eval --content-image images/content/input.jpg --style-image images/21styles/the_scream.jpg --model models/21styles.model --content-size 1024
